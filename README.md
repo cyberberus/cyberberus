@@ -1,4 +1,4 @@
-# Cyberberus
+<img src="./cyberberus-banner.png" alt="Cyberberus Banner" width="100%">
 
 AI-powered tools, automation systems, and e-commerce infrastructure.
 
